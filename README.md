@@ -6,3 +6,6 @@ Sharadha khapra
 
 # Teacher 
 delta student
+
+#practice
+i am doing a practice of the commit in the github.
